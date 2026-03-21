@@ -1,3 +1,7 @@
 aid: kraft-heinz
 url: https://raw.githubusercontent.com/api-evangelist/kraft-heinz/refs/heads/main/apis.yml
+modified: '2026-03-21'
 apis: []
+common:
+  - type: Website
+    url: https://www.kraft-heinz.com
