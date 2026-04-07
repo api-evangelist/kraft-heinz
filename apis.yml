@@ -1,7 +1,12 @@
 aid: kraft-heinz
-url: https://raw.githubusercontent.com/api-evangelist/kraft-heinz/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kraft-heinz/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.kraft-heinz.com
+description: >-
+  The Kraft Heinz Company is one of the largest food and beverage companies in the
+  world, producing iconic brands including Kraft, Heinz, Oscar Mayer, Philadelphia,
+  Velveeta, Lunchables, Planters, and Maxwell House.
