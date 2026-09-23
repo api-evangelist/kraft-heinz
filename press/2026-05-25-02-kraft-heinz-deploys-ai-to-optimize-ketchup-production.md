@@ -1,7 +1,9 @@
 ---
 title: Kraft Heinz Deploys AI to Optimize Ketchup Production
 url: https://www.thomasnet.com/insights/kraft-heinz-ai-tool-the-cookbook/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"H.J. Heinz" press release artificial intelligence'
 position: 2
 source: serpapi-google

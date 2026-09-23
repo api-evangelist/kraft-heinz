@@ -1,7 +1,9 @@
 ---
 title: Kraft Heinz undoes blockbuster merger after a decade of ...
 url: https://apnews.com/article/kraft-heinz-oscar-mayer-lunchables-79a6fe0491da98bcda8c77a8227994c3
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"H.J. Heinz" press release artificial intelligence'
 position: 4
 source: serpapi-google
